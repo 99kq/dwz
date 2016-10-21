@@ -1,0 +1,12 @@
+{
+  "name": "Get short URL from baidu duanwangzhi.",
+  "version": "1.0.0",
+  "description": "使用百度短网址API批量生成短网址",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:99kq/dwz.git",
+    "type": "git"
+  },
+  "author": "vitrum.zhu",
+  "license": "MIT"
+}
